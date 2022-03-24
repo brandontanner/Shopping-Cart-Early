@@ -7,9 +7,9 @@ This program allows users to add items to their shopping cart from a list of pro
 ### How to Run
 
 1. Download the zip file in github and navigate to the **Shopping-Cart-Early-main** directory in the terminal.
-2. Run `npm install`.
-3. When that is complete, run `npm start`. This will load the project in the browser.
-4. Enter information into the fields as stated and click **"Submit"** when finished.
+2. Run `http-server -c-1`.
+3. When that is complete, load **localhost:8080** in the browser and click on the link for **standalone.html**. This will load the project in the browser.
+4. Click the buttons to add items to your cart.
 
 ### Roadmap of Future Improvements
 
